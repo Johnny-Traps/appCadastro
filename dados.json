@@ -1,5 +1,12 @@
 [
   {
+    "rm": "100000",
+    "nome": "Giuseppe Cadura",
+    "curso": "JOGOS",
+    "modulo": "1",
+    "email": "cadura.giuseppe@email.com"
+  },
+  {
     "rm": "100001",
     "nome": "Lucas Ferreira",
     "curso": "DS",
